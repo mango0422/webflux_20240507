@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: webclient-demo
+server:
+  port: 9000
+
+content-service: https://jsonplaceholder.typicode.com
